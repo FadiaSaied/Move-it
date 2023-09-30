@@ -1,2 +1,2 @@
 # Move-it
-I user bootstrap to design a simple website
+I used bootstrap to design a simple website
